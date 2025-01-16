@@ -1,0 +1,142 @@
+.container{
+    max-width: 1440px;
+    padding: 0 auto;
+}
+h3{
+ display: flex;
+  
+    font-size: 30px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   gap: 950px; 
+   background-color: white;
+   
+
+}
+img{
+    margin-left: 171px;
+}
+body{
+    background-color: gainsboro;
+}
+.yy{
+    width: 650px;
+height: 900px;
+
+border-radius: 50px;
+border: 1px 0px 0px 0px;
+
+background: #FFFFFF;
+border: 1px solid #DEDBDB;
+margin-left: 600px;
+gap: 30px;
+margin-top: 200px;
+
+
+}
+.oo{
+    color: #F0400F;
+    margin-left: 200px;
+   margin-top: -40px;
+
+
+}
+.pp{
+    display: flex;
+    justify-content: space-between;
+   align-items: center;
+   gap: 700px;
+   
+}
+.aa{
+    color: #0E0D5D;
+
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 58.09px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    text-align: center;
+    margin-top: 100px;
+    
+}
+.k{
+    width: 533px;
+height: 70px;
+top: 498px;
+left: 459px;
+gap: 0px;
+border-radius: 20px 0px 0px 0px;
+opacity: 0px;
+background: #F5F5F5;
+
+}
+.k{
+    background-image: url(./Rectangle\ 3.png);
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    margin-left: 20px;
+    padding-bottom: 20px;
+}
+.u{
+    background-color: white     ;
+    width: 255px;
+    height: 54px;
+    top: 506px;
+    left: 470px;
+    gap: 0px;
+   border-radius: 20px;
+    opacity: 0px;
+    
+}
+input{
+    width: 533px;
+height: 70px;
+top: 607px;
+left: 459px;
+gap: 0px;
+border-radius: 20px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+font-size: 30px ;
+margin-left: 50px;
+margin-bottom: 50px;
+}
+.z{
+    width: 247px;
+height: 33px;
+top: 804px;
+left: 608px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 29.05px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #000000A3;
+margin-left: 200px;
+
+}
+button{
+    width: 202px;
+height: 67px;
+top: 868px;
+left: 785px;
+gap: 0px;
+border-radius: 20px ;
+opacity: 0px;
+background: #F69E86;
+color: white;
+font-size: 20px;
+
+margin-left: 350px;
+}
